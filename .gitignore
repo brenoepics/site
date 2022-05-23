@@ -35,3 +35,6 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# vscode (the folder on the repository is used as a baseline for personal customizations)
+/.vscode
