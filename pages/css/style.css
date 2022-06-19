@@ -1,0 +1,15 @@
+.body::before {
+  background-image: url('../../public/img/Header_Planeta.gif');
+  background-size: cover;
+
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+
+  content: '';
+  width: auto;
+  height: auto;
+}
+.body {
+  text-align: center;
+  padding: 10%;
+}
