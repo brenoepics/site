@@ -4,6 +4,10 @@
 
   filter: blur(8px);
   -webkit-filter: blur(8px);
+
+  content: '';
+  width: auto;
+  height: auto;
 }
 .body {
   text-align: center;
