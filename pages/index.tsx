@@ -30,7 +30,7 @@ const Home: NextPage = () => {
         </Header>
       </div>
       <div className="body">
-        <h1 className="title">Sophia Elementaris</h1>
+        <h1 className="title-text"> Sophia Elementaris</h1>
       </div>
     </div>
   );
